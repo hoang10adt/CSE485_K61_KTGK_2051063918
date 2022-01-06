@@ -61,7 +61,7 @@
     <!--</form>-->
     <main>
     <div class="container">
-        <h5 class="text-center text-primary mt-5">Thêm mới môn học</h5>
+        <h5 class="text-center text-primary mt-5">Sửa môn học</h5>
         <!-- Form thêm Dữ liệu nhân viên -->
         <form action="" method="post">
             <div class="form-group">
